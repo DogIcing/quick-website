@@ -1,7 +1,7 @@
 {
-"dismissable-banner":{
+"dismissable-banner":[
 "colour":"blue",
 "text":"hi",
 "hide":"true"
-}
+]
 }
