@@ -1,10 +1,25 @@
 {
 "code": [
 "dismissable-banner":[
-  "red","blue","hi","true"
+  "red","blue","hi","true","b"
 ],
 "header":[
-  "none","blue","hi","true"
+  "none","blue","hi","true","none"
+], 
+"subheading":[
+  "none","blue","hi","true","none"
+],
+"paragraph":[
+  "none","blue","hi","true","b"
+], 
+"subparagraph":[
+  "none","blue","hi","true","none"
+],
+"parasubheading":[
+  "none","blue","hi","true","i"
+],
+"img":[
+  "https://i.imgur.com/jY6O2p9_d.webp?maxwidth=760&fidelity=grand","200px","200px"
 ], 
 ]
 }
