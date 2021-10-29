@@ -1,0 +1,2 @@
+http://dogicing.github.io/quick-website/index.html
+http://dogicing.github.io/quick-website/website-data.json
